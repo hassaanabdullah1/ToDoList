@@ -83,4 +83,4 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ## 📬 Contact
 
-Made with ❤️ by Khan6400 — [GitHub Profile](https://github.com/khan6400)
+Made with ❤️ by Hassaan Abdullah — [GitHub Profile](https://github.com/hassaanabdullah1)
